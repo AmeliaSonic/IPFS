@@ -4,7 +4,7 @@
 #
 >###使用方法
 ####安装IPFS服务
-使用压缩包安装，更多的安装方式参考[官方文档](https://baidu.com)
+使用压缩包安装，更多的安装方式参考[官方文档](https://docs.ipfs.io/introduction/install/)
 
 首先根据平台下载IPFS资源包:
 
