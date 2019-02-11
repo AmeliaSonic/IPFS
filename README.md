@@ -3,6 +3,7 @@
 >这个项目的目的是使用IPFS服务观看视频资源。
 #
 >###使用方法
+windows用户可直接下载`go-ipfs.7z`文件，解压后根据说明文档进行体验
 ####安装IPFS服务
 使用压缩包安装，更多的安装方式参考[官方文档](https://docs.ipfs.io/introduction/install/)
 
