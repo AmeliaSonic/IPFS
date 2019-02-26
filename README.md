@@ -7,6 +7,8 @@
 
 windows用户可直接下载`go-ipfs.7z`文件，解压后根据说明文档进行体验或根据以下说明自行安装
 
+文件`jiasu.bat`下载后移动到解压路径运行
+
 无法下载的用户可在网盘中下载：https://pan.baidu.com/s/1_q2i0PV3GWIJbmXUJ0lMsQ
 
 ####安装IPFS服务
